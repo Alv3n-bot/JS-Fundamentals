@@ -1,4 +1,4 @@
-const i = ["C is fun", "Python is fun", 
+const i = ["C is fun", "Python is cool", 
     "JavaScript is amazing"]; 
 
 
